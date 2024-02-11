@@ -1,9 +1,4 @@
-# Ejemplo proyecto TDD NodeJS
-
-Fuente: https://www.taniarascia.com/unit-testing-in-javascript/
-
-## Ejecución de tests en GitHub Actions
-Fuente: https://docs.github.com/en/actions/guides/building-and-testing-nodejs
+## Trabajo del curso github de Vicent Martí
 
 El fichero `.github/workflows/testnode.yml` contiene la configuración necesaria para activar la acción de ejecución de tests. Está convenientemente comentado.
 

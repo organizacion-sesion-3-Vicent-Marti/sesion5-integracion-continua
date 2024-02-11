@@ -13,7 +13,7 @@ it('comprobar función esPar', function() {
   should.equal(operaciones.esPar(3), false);
   should.equal(operaciones.esPar(5), false);
   // añadimos esta línea para ver como afecta en el repositorio remoto
-  //should.equal(operaciones.esPar(7), false);
+  should.equal(operaciones.esPar(7), false);
 });
 
 
